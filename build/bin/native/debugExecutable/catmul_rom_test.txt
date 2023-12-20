@@ -1,0 +1,14 @@
+WIDTH:          1300
+HEIGHT:         640
+XORIGIN:        80
+ITERATIONS:     2182
+LINE_INCREMENT: 0.5
+SPEED:          0.010
+STROKE:         #ddaaaa
+BACKGROUND:     #FFFFFF
+OPACITY:        0.6
+XSEED:          0.4805
+YSEED:          1.0004
+//XSEED: 0.467
+//YSEED: 1.0002
+
